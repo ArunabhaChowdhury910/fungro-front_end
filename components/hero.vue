@@ -2,8 +2,10 @@
     <div class=" pt-8 flex items-center justify-between px-12">
       <div class="space-y-3 text-ivory_white">
         <h1 class="text-6xl  font-bold ">Earn your first income</h1>
-          <p class="text-slate_grey" >Real companies, real projects, real earnings and real money</p>
-          <p class="text-slate_grey">Smart opportunities for the smart generation</p>
+          <h2 class="text-slate_grey" >Real companies, real projects, real earnings and real money with massive learning experiences</h2>
+          <h2 class="text-slate_grey">Smart opportunities for the smart generation</h2>
+          <h2 class="text-slate_grey">Loved by Millions of Teens and Companies</h2>
+          
           <div class="pt-6 flex items-center rush ">
             <nuxt-link class="text-2xl text-ivory_white hover:text-shade_green hover:bg-ivory_white font-semibold border p-4 rounded-xl py-1 bg-shade_green" to="https://teenlancer.funngro.com/pages/login/">Get Started -></nuxt-link>
           </div>
