@@ -1,0 +1,2 @@
+1. use proper color theme 
+2. add animaion
